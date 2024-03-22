@@ -1,3 +1,9 @@
+# Output folder
+output/
+
+# FEniCSx cache
+.cache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
